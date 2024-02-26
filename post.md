@@ -13,7 +13,28 @@ In the previous lab, we delved into digital circuit design, starting with the cr
 
 ## Materials
 
+- PB-503 breadboard prototyping station
+
+- Arduino microcontroller
+
+- Buzzer
+
+- Ultrasonic Sensor
+
+- Wires and connection tools
+
+- Logic Probes
+
+- Arduino IDE software
+
+- USB cable
+
+- Laptop or device for programming and powering the Arduino
+
+
 ## Project Steps
+
+
 
 ## Testing
 
